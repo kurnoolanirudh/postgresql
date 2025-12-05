@@ -1,0 +1,8 @@
+tables 
+relations between tables 
+different datatypes
+primary key
+constraints on a column in a table 
+
+every sql command should end with a ;
+difference between "" and '' in psql ???
